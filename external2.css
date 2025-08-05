@@ -1,0 +1,33 @@
+h1{
+     margin: 20px;
+    padding: 30px; 
+
+    color: #ff0000;
+    text-align: center; 
+     direction: ltr/rtl;  
+    unicode-bidi: bidi-override; 
+    
+}
+ a{
+    text-decoration: none;
+}
+p{
+    text-decoration: overline;
+} 
+p{
+    text-decoration: underline/line-through; 
+
+ text-transform: capitalize/lowercase/uppercase; 
+
+ text-indent: 100px; 
+
+letter-spacing: 10px; 
+
+ word-spacing: 10px; 
+
+line-height: 30px;
+
+white-space: nowrap;
+
+text-shadow: 30px;
+}
